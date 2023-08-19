@@ -1,9 +1,9 @@
-import React from 'react'
+// import React from 'react'
 
-const Loader = () => {
+const CanvasLoader = () => {
   return (
     <div>Loader</div>
   )
 }
 
-export default Loader
+export default CanvasLoader
